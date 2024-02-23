@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jannis6023
-- 👀 I’m interested in developing innovative stuff in PHP, Java, JS and Swift(UI)
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in developing innovative stuff in TS, SwiftUI and Dart / Flutter. Using Vue and Nest as web stack.
 
 <!---
 jannis6023/jannis6023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
